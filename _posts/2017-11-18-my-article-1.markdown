@@ -1,7 +1,0 @@
----
-layout: post
-title:  "这是我自己的一篇文章"
-date:   2017-11-18 20:12:20 +0800
-category: "不明所以"
-categories: jekyll update
----
